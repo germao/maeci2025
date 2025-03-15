@@ -1,6 +1,5 @@
 # CISO Mind Map - Governance
 
-
 ## **⚙️ Governance Overview**
 La gobernanza en la ciberseguridad es fundamental para alinear las estrategias de seguridad con los objetivos de negocio. Esta seccion cubre los marcos de control, la gestión de recursos y la comunicación con la junta directiva.
 
