@@ -74,19 +74,9 @@ La gobernanza en la ciberseguridad es fundamental para alinear las estrategias d
 
 ---
 
-✨ **Recursos Adicionales:**
+✨ **Referencias:**
 - [SANS Governance Resources](https://www.sans.org/)
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 
-📝 **Autor:** Rafeeq Rehman
 
----
-
-🔗 **Contribuir:**
-1. Clona el repositorio.
-2. Crea una rama.
-3. Realiza tus cambios.
-4. Envía un *Pull Request*.
-
-✨ ¡Contribuye para fortalecer la ciberseguridad global! ⚛️
 
